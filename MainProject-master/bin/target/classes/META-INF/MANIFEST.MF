@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: MainProject-TSP
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: asus
+Implementation-Vendor-Id: com.verizon.tsp
+Build-Jdk: 1.8.0_73
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/MainProject-TSP
+Created-By: Maven Integration for Eclipse
+
